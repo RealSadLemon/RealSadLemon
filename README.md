@@ -1,3 +1,5 @@
+<img href="https://media-exp1.licdn.com/dms/image/C5616AQHpUTDZai4ijw/profile-displaybackgroundimage-shrink_200_800/0/1660252978778?e=1665619200&v=beta&t=mx6lo-RYIdaEXlsTnWZLnla4FkX3RVcyEGrgq39NeM4" />
+
 <h1 align="center">Hi 👋, I'm Esmodea</h1>
 <h3 align="center">A passionate full-stack web developer from the US.</h3>
 
